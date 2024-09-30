@@ -16,7 +16,7 @@ const Hero = () => {
               Discover timeless elegance with our exclusive range of jewellery, crafted with passion and precision to complement your style.
             </p>
             <div>
-              <Link href="/">
+              <Link href="/products">
                 <button className="bg-gray-900 text-white py-3 px-8 rounded-full mr-4 font-semibold">
                   Shop Now
                 </button>
