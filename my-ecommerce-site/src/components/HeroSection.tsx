@@ -28,12 +28,12 @@ const Hero = () => {
               </Link>
             </div>
           </div>
-          <div className="lg:max-w-lg md:w-1/2 w-full">
+          <div className="lg:max-w-lg md:w-1/2 w-full mb-10">
             <Image
               className="object-cover md:h-[447px] h-[340px] rounded-3xl hover:scale-105 transition-transform duration-500"
               alt="Hero"
               src={require("../../public/bg.jpg")}
-              layout="responsive" // Added to ensure the image is responsive
+              layout="responsive"
             />
           </div>
         </div>
