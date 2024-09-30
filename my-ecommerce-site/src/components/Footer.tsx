@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-6">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4"> {/* Gap ko kam kar diya */}
           {/* About Section */}
           <div className="mb-4">
             <h3 className="text-lg font-bold mb-2">About JewelStore</h3>
