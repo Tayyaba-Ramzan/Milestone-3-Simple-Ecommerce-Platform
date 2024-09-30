@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Hero = () => {
   return (
-    <div className="bg-slate-100 max-h-screen">
+    <div className="bg-slate-100 max-auto">
       <section className="text-gray-600 body-font flex items-center">
         <div className="container mx-auto flex flex-col md:flex-row justify-center items-center px-5 py-10 bg-slate-100">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col items-center text-center mb-16 md:mb-0">
