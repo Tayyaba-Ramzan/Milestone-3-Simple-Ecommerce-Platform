@@ -28,7 +28,7 @@ const Hero = () => {
               </Link>
             </div>
           </div>
-          <div className="lg:max-w-lg md:w-1/2 w-full mb-10">
+          <div className="lg:max-w-lg md:w-1/2 w-full">
             <Image
               className="object-cover md:h-[447px] h-[340px] rounded-3xl hover:scale-105 transition-transform duration-500"
               alt="Hero"
