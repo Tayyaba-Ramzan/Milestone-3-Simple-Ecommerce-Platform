@@ -17,7 +17,7 @@ const Hero = () => {
             </p>
             <div className="flex flex-col md:flex-row">
               <Link href="/allCategory">
-                <button className="bg-gray-900 text-white py-3 px-8 rounded-full mr-4 font-semibold mb-4 md:mb-0">
+                <button className="bg-gray-900 text-white py-3 px-8 rounded-full mr-4 font-semibold mb-4 md:mb-0 mb-10">
                   Shop Now
                 </button>
               </Link>
