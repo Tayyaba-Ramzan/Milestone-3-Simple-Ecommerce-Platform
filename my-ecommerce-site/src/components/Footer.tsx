@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* About Section */}
           <div>
-            <h3 className="text-lg font-bold mb-4">About JewelStore</h3>
+            <h3 className="text-lg font-bold mb-4 mt-4">About JewelStore</h3>
             <p className="text-gray-400">
               JewelStore offers an exquisite collection of fine jewelry, crafted with elegance and sophistication. Discover timeless designs that suit every occasion.
             </p>
