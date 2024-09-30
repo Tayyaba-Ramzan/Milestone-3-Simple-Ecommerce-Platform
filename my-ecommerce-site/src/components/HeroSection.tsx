@@ -18,7 +18,7 @@ const Hero = () => {
             <div>
               <Link href="/about">
                 <button className="bg-gray-900 text-white py-3 px-8 rounded-full mr-4 font-semibold">
-                  Learn More
+                  Shop Now
                 </button>
               </Link>
               <Link href="/contact">
