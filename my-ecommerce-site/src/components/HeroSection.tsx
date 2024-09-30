@@ -22,7 +22,7 @@ const Hero = () => {
                 </button>
               </Link>
               <Link href="/contact">
-                <button className="bg-white text-gray-900 py-3 px-8 rounded-full mt-6 font-semibold">
+                <button className="bg-white text-gray-900 py-3 px-8 rounded-full mt-4 font-semibold">
                   Contact Us
                 </button>
               </Link>
