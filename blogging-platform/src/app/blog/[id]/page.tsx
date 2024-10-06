@@ -74,7 +74,7 @@ const blogPosts = {
   'twelfth-post': {
     title: 'Huawei P50 Pro Insights',
     content: 'Insights into the Huawei P50 Pro, with its stunning camera features and performance.',
-    image: '/images/mobile12.jpg',
+    image: '/images/mobile12.png',
     mobileName: 'Huawei P50 Pro',
   },
   'thirteenth-post': {
